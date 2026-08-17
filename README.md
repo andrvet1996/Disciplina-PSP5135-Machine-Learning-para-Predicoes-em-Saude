@@ -1,4 +1,4 @@
-## Trabalho Final — PSP5135: Machine Learning para Predições em Saúde
+# Trabalho Final — PSP5135: Machine Learning para Predições em Saúde
 
 Este repositório contém exclusivamente o trabalho final da disciplina PSP5135 — Machine Learning para Predições em Saúde, oferecida pela Pós-Graduação da Faculdade de Saúde Pública da Universidade de São Paulo (FSP/USP) no 2º semestre de 2026.
 
