@@ -6,7 +6,7 @@ O projeto tem como objetivo aplicar técnicas de Machine Learning à análise de
 
 A implementação é realizada em Python, contemplando as principais etapas do processo de modelagem preditiva, desde a preparação e exploração dos dados até o treinamento, avaliação e interpretação dos modelos.
 
-## Objetivos
+### Objetivos
 
 Explorar e preparar os dados utilizados no estudo;
 Desenvolver modelos preditivos utilizando técnicas de Machine Learning;
