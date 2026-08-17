@@ -9,8 +9,13 @@ A implementação é realizada em Python, contemplando as principais etapas do p
 #### Objetivos
 
 Explorar e preparar os dados utilizados no estudo;
+
 Desenvolver modelos preditivos utilizando técnicas de Machine Learning;
+
 Avaliar o desempenho dos modelos por meio de métricas apropriadas;
+
 Comparar diferentes abordagens de modelagem;
+
 Interpretar os resultados obtidos;
+
 Discutir as aplicações, limitações e implicações dos modelos preditivos no contexto da saúde.
